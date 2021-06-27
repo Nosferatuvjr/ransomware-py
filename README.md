@@ -1,1 +1,3 @@
 # Ransomwares
+
+*Para fins educativos*
